@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\Jordan\Desktop\EPSI\B3\Dot Net\exo 3\Invoicing\Invoicing\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Jordan\Desktop\EPSI\B3\Dot Net\exo 3\Invoicing\Invoicing\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>

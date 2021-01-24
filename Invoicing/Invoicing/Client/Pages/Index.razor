@@ -1,0 +1,30 @@
+﻿@page "/"
+
+@inject HttpClient http
+
+@if (dashboard == null)
+{
+    <p>Interrogation du serveur...</p>
+}
+else
+{
+    <h1>Your activity</h1>
+
+        <h2>Sales revenues : <strong>@dashboard.ElementAt(0)</strong></h2>
+
+        <h2>Outstanding : <strong>@dashboard.ElementAt(1)</strong></h2>
+
+   
+}
+    @code
+{
+private IEnumerable<decimal> dashboard = null;
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        dashboard = await http.GetFromJsonAsync<IEnumerable<decimal>>("api/dashboard");
+
+    }
+
+    }

@@ -1,0 +1,12 @@
+C:\Users\Jordan\Desktop\EPSI\B3\Dot Net\exo 3\Invoicing\Invoicing\Shared\bin\Debug\net5.0\Invoicing.Shared.deps.json
+C:\Users\Jordan\Desktop\EPSI\B3\Dot Net\exo 3\Invoicing\Invoicing\Shared\bin\Debug\net5.0\Invoicing.Shared.dll
+C:\Users\Jordan\Desktop\EPSI\B3\Dot Net\exo 3\Invoicing\Invoicing\Shared\bin\Debug\net5.0\ref\Invoicing.Shared.dll
+C:\Users\Jordan\Desktop\EPSI\B3\Dot Net\exo 3\Invoicing\Invoicing\Shared\bin\Debug\net5.0\Invoicing.Shared.pdb
+C:\Users\Jordan\Desktop\EPSI\B3\Dot Net\exo 3\Invoicing\Invoicing\Shared\obj\Debug\net5.0\Invoicing.Shared.csprojAssemblyReference.cache
+C:\Users\Jordan\Desktop\EPSI\B3\Dot Net\exo 3\Invoicing\Invoicing\Shared\obj\Debug\net5.0\Invoicing.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan\Desktop\EPSI\B3\Dot Net\exo 3\Invoicing\Invoicing\Shared\obj\Debug\net5.0\Invoicing.Shared.AssemblyInfoInputs.cache
+C:\Users\Jordan\Desktop\EPSI\B3\Dot Net\exo 3\Invoicing\Invoicing\Shared\obj\Debug\net5.0\Invoicing.Shared.AssemblyInfo.cs
+C:\Users\Jordan\Desktop\EPSI\B3\Dot Net\exo 3\Invoicing\Invoicing\Shared\obj\Debug\net5.0\Invoicing.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Desktop\EPSI\B3\Dot Net\exo 3\Invoicing\Invoicing\Shared\obj\Debug\net5.0\Invoicing.Shared.dll
+C:\Users\Jordan\Desktop\EPSI\B3\Dot Net\exo 3\Invoicing\Invoicing\Shared\obj\Debug\net5.0\ref\Invoicing.Shared.dll
+C:\Users\Jordan\Desktop\EPSI\B3\Dot Net\exo 3\Invoicing\Invoicing\Shared\obj\Debug\net5.0\Invoicing.Shared.pdb
